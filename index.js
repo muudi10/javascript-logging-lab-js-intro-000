@@ -1,2 +1,2 @@
 console.error("HALP");
-console.alert("hey you");
+console.warn("hey you");
